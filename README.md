@@ -6,7 +6,7 @@ In this project I build my first neural network and use it to predict daily bike
 
 **Prediction:**
 
-<img src="Bike_Sharing_Prediction.png" width="20%">
+<img src="Bike_Sharing_Prediction.png" width="70%">
 
 **Conclusions:**
 - The final version of the model with 4000 iterations, `learning_rate = 0.3` and `hidden_nodes = 20` describes the data better than the same model with 1000 iterations, see two last figures.
